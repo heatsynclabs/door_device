@@ -1,0 +1,17 @@
+{
+  "name": "door_device",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "mqtt": "^4.2.1",
+    "rawr": "^0.13.0",
+    "serialport": "^9.0.1"
+  }
+}
