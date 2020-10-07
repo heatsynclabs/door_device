@@ -45,6 +45,7 @@ const config = {
   jwt,
   username,
   password,
+  cards: null, // possibly read from config?
 };
 
 module.exports = config;

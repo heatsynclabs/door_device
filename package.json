@@ -11,6 +11,7 @@
   "dependencies": {
     "lodash": "^4.17.20",
     "mqtt": "^4.2.1",
+    "node-fetch": "^2.6.1",
     "rawr": "^0.13.0",
     "serialport": "^9.0.1"
   }
